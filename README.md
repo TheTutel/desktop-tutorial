@@ -1,5 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# Welcome to War Thunder!
+War Thunder — компьютерная многопользовательская онлайн-игра с элементами симулятора, посвящённая авиации, бронетехнике и флоту довоенного периода, а также Второй мировой войны и послевоенного периода. Проект разрабатывается и издаётся компанией Gaijin Entertainment
