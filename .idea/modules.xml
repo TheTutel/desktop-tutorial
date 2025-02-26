@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/desktop-tutorial.iml" filepath="$PROJECT_DIR$/.idea/desktop-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Информатика Пайтон/.idea/Информатика Пайтон.iml" filepath="$PROJECT_DIR$/../../Информатика Пайтон/.idea/Информатика Пайтон.iml" />
     </modules>
   </component>
 </project>

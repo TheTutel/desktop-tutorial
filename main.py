@@ -23,4 +23,4 @@ if talk_style==2:
 else: print("CRITICAL, FATAL, TACTICAL, STRATEGICAL ERROR!!!")
 exit()
 
-#dsdfsdfsdfsdfsdfsdfsdf
+#sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
