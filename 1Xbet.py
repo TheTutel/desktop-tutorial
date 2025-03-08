@@ -1,3 +1,5 @@
+#literally the least wordy option
+
 #library import
 import random
 
